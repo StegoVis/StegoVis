@@ -1,2 +1,2 @@
 # StegoVis
-The code of the StegoVis project
+StegoVis project Code
